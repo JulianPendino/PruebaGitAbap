@@ -8,4 +8,5 @@ REPORT ZTEST_ABAPGIT.
 
 IF sy-subrc EQ 0.
 " Version uno
+" Version dos
 ENDIF.
